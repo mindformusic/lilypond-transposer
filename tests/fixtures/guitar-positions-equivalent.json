@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "tuning": "standard",
+  "meter": "4/4",
+  "measures": [
+    [
+      {"string": 1, "fret": 0, "duration": "4"},
+      {"string": 2, "fret": 5, "duration": "4"},
+      {"string": 3, "fret": 9, "duration": "4"},
+      {"string": 4, "fret": 14, "duration": "4"}
+    ]
+  ]
+}
