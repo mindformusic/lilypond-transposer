@@ -1,6 +1,8 @@
 # lilypond-transposer
 A simple CLI sheet music transposer that uses LilyPond.
 
+You can also [generate four-bar chord-progression practice charts](docs/practice-exercises.md).
+
 # Background
 This code was featured in a YouTube video talking about how valuable LilyPond could be to public music education:
 
